@@ -1,8 +1,16 @@
 ## Recommended Libraries:
 
-Styling:
-Testing:
-Animations:
+Styling:</br>
+[Sass](https://sass-lang.com/)</br>
+[Styled Comppnents](https://styled-components.com/)</br>
+
+Testing:</br>
+[React Testing Library](https://testing-library.com/docs/react-testing-library/intro) </br>
+
+Animations:</br>
+[React-Spring](https://www.react-spring.io/)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
